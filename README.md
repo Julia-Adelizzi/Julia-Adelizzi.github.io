@@ -3,4 +3,4 @@ My name is Julia Adelizzi. I am a sophomore at Lehigh University studying journa
 Check out my [Digital Portfolio](https://juliaadelizzi.tumblr.com/)
 ![My Sister, Philly and Me](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/unnamed.jpg?raw=true)
 ![Lehigh Undergraduate Residence](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Residence.png)
-Where Undergraduate Students at Lehigh Live
+## Where Undergraduate Students at Lehigh Live
