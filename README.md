@@ -4,7 +4,7 @@ Check out my [Digital Portfolio](https://juliaadelizzi.tumblr.com/)
 ![My Sister, Philly and Me](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/unnamed.jpg?raw=true)
 
 ## Where Undergraduate Students at Lehigh Live
-![Lehigh Undergraduate Residence](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Residence.png)
+![Lehigh Undergraduate Residence](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Residence.png?raw=true)
 
 
 
