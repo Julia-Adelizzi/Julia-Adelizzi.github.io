@@ -5,3 +5,6 @@ Check out my [Digital Portfolio](https://juliaadelizzi.tumblr.com/)
 
 ## Where Undergraduate Students at Lehigh Live
 ![Lehigh Undergraduate Residence](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Residence.png)
+
+##Rio Summer Olympics 2016
+(https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lRhyQ-vOuX64APya_GisgFJm6GIupEK_2lmAzZ1hD40&font=Default&lang=en&initial_zoom=2&height=650)
