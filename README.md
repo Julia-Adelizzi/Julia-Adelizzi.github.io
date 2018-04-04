@@ -14,4 +14,4 @@ Check out my [Digital Portfolio](https://juliaadelizzi.tumblr.com/)
 
 
 ## Highest Grossing Disney Animation Films of All Time
-![Disney](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Disney.png)
+![Disney](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Disney.png?raw=true)
