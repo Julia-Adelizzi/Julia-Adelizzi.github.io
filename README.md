@@ -4,6 +4,8 @@ Check out my [Digital Portfolio](https://juliaadelizzi.tumblr.com/)
 ![My Sister, Philly and Me](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/unnamed.jpg?raw=true)
 
 ## Where Undergraduate Students at Lehigh Live
+There are four main living options to house Lehigh's student population of just around 5,000. Where do you live at Lehigh?
+
 ![Lehigh Undergraduate Residence](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Residence.png?raw=true)
 
 
@@ -15,6 +17,7 @@ Check out my [Digital Portfolio](https://juliaadelizzi.tumblr.com/)
 
 ## Highest Grossing Disney Animation Films of All Time
 Here are the Disney movies that over the decades have made the most money. What interests me the most is the range in years in this list, from old classics to newly released. It shows that Disney movies really are timeless. 
+
 ![Disney](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Disney.png?raw=true)
 
 
