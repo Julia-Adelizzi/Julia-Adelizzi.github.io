@@ -24,3 +24,7 @@ Here are the Disney movies that over the decades have made the most money. What 
 ## The Life of Robin Williams
 Robin Williams was a tremendous actor, comedic genius and beloved friend to many in Hollywood. His death in 2014 sent shockwaves throughout the entertainment community and all of his fans. His memory lives on through his unforgettable roles such as in Good Will Hunting, Dead Poet's Society and Mrs. Doubtfire. Here is a timeline of his life. The information used for this timelime cam be found [here](https://www.thefamouspeople.com/profiles/robin-mclaurim-williams-2733.php)
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wmVgxfPALKJbDhtam0sT4-8TYlFWzvOWFDpstj10IgM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+## Lehigh Undergrad Enrollment From the Past 10 Years
+![Enrollment](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Undergraduate_Enrollment_Over_the_Past_10_Years_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
