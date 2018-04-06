@@ -26,5 +26,5 @@ Robin Williams was a tremendous actor, comedic genius and beloved friend to many
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wmVgxfPALKJbDhtam0sT4-8TYlFWzvOWFDpstj10IgM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-## Lehigh Undergrad Enrollment From the Past 10 Years
+## Lehigh Undergrad Enrollment
 ![Enrollment](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Undergraduate_Enrollment_Over_the_Past_10_Years_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
