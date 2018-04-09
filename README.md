@@ -28,3 +28,7 @@ Robin Williams was a tremendous actor, comedic genius and beloved friend to many
 
 ## Lehigh Undergrad Enrollment
 ![Enrollment](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Undergraduate_Enrollment_Over_the_Past_10_Years_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+
+## Lehigh International Student Enrollment
+![International](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Undergraduate_International_Student_Enrollment_Over_the_Past_10_Years_International_Students_Enrollment_chartbuilder.png?raw=true)
