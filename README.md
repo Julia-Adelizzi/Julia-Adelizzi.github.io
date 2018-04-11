@@ -33,3 +33,8 @@ Robin Williams was a tremendous actor, comedic genius and beloved friend to many
 ## Lehigh International Student Enrollment
 Over the past ten years, the amount of international students enrolled in Lehigh increased from 2.8% to 8.8%! The majority of Lehigh's international students are from China, the 2013-2014 school year statistic being about 800 students. Students are from over 50 countries all over the globe, the next highest including India, Iran, and Turkey. 
 ![International](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Undergraduate_International_Student_Enrollment_Over_the_Past_10_Years_International_Students_Enrollment_chartbuilder.png?raw=true)
+
+
+## Arts Around Bethlehem
+Bethlehem, although a small town, is filled with history and the celebration of arts. These are some of the main locations you can celebrate arts and theatre in Bethlehem!
+<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1P_BvsyCyRRkKozjg_3MOcrLOoMbefNbDRr6lGFjg&amp;viz=MAP&amp;h=false&amp;lat=40.61762202298147&amp;lng=-75.38148240984799&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
