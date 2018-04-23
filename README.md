@@ -54,3 +54,5 @@ Spreading over two continents, these iconic movie locations come from some of th
 
 
 ## Titanic Passengers
+The first graph represents all of the passengers, gender differentied by color, and size based upon age. You then can filter them by survivors and non survivors. The second graph shows that based on the average fare price, women paid more for their tickets on the Titanic then men did.
+https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Screen%20Shot%202018-04-22%20at%2011.38.07%20PM.png?raw=true
