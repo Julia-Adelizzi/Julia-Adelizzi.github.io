@@ -76,4 +76,5 @@ This visualization exemplifies the drastic difference in male and female directo
 
 
 ![My comic](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Screen%20Shot%202018-04-30%20at%203.26.44%20PM.png?raw=true)
+![My comic](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Screen%20Shot%202018-04-30%20at%203.28.04%20PM.png?raw=true)
 <iframe src="//www.pixton.com/embed/mk7vhifw" frameborder="0" width="155%" height="1152" allowfullscreen></iframe>
