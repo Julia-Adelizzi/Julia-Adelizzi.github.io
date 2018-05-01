@@ -1,5 +1,6 @@
 
 <br>
+<br>
 
 ## Visual Portfolio
 Hi! My name is Julia Adelizzi, and this is my visual portfolio! My portfolio has two themes. The first is a little about Lehigh, where I have spent two years of my undergratuate life so far! The second theme and majority of my portfolio focuses on movies and the film industry. I love movies and find the entertainment and film industry fascinating, wanted to learn more about it and present my data findings!
