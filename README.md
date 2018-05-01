@@ -1,10 +1,10 @@
 
 ## Visual Portfolio
-Hi! My name is Julia Adelizzi, and this is my visual portfolio! My portfolio has two themes. The first is a little about Lehigh, where I have spent two years of my undergratuate life so far! The second theme and majority of my portfolio focuses on movies and the flim industry. I love movies and find the entertainment and film industry fascinating, and so I wanted to learn more about it!
+Hi! My name is Julia Adelizzi, and this is my visual portfolio! My portfolio has two themes. The first is a little about Lehigh, where I have spent two years of my undergratuate life so far! The second theme and majority of my portfolio focuses on movies and the film industry. I love movies and find the entertainment and film industry fascinating, wanted to learn more about it and present my data findings!
 Before we get into that, I wanted to start off with an introduction. Please enjoy my Pixton comic, titled "Slice of my Life." I wanted to show a glimpse of my life at the age of 20, and a bit of my future plans for the rest of this year and next. Enjoy!
 ![My comic](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Screen%20Shot%202018-04-30%20at%203.26.44%20PM.png?raw=true)
 ![My comic](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Screen%20Shot%202018-04-30%20at%203.28.04%20PM.png?raw=true)
-<iframe src="//www.pixton.com/embed/mk7vhifw" frameborder="0" width="155%" height="1152" allowfullscreen></iframe>
+
 
 <br>
 <br>
