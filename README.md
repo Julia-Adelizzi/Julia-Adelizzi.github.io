@@ -88,14 +88,6 @@ Spreading over two continents, these iconic movie locations come from some of th
 <br>
 <br>
 
-## Titanic Passengers
-The first graph represents all of the passengers, gender differentied by color, and size based upon age. You then can filter them by survivors and non survivors. The second graph shows that based on the average fare price, women paid more for their tickets on the Titanic then men did.
-![Titanic](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Screen%20Shot%202018-04-22%20at%2011.38.07%20PM.png?raw=true)
-
-
-<br>
-<br>
-<br>
 
 ## Lack of Diversity in the Director's Chair
 These four visualizations represent patriarchy and white male dominance in the director's chair in 1,100 movies made in a ten year span from 2007-2017. The data was found [here.](http://assets.uscannenberg.org/docs/inclusion-in-the-directors-chair-2007-2017.pdf)
