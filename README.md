@@ -8,7 +8,7 @@ There are four main living options to house Lehigh's student population of just 
 
 ![Lehigh Undergraduate Residence](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Residence.png?raw=true)
 
-
+<br>
 
 ## Rio Summer Olympics 2016
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1lRhyQ-vOuX64APya_GisgFJm6GIupEK_2lmAzZ1hD40&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -20,6 +20,7 @@ Here are the Disney movies that over the decades have made the most money. What 
 
 ![Disney](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Disney.png?raw=true)
 
+<br>
 
 ## The Life of Robin Williams
 Robin Williams was a tremendous actor, comedic genius and beloved friend to many in Hollywood. His death in 2014 sent shockwaves throughout the entertainment community and all of his fans. His memory lives on through his unforgettable roles such as in Good Will Hunting, Dead Poet's Society and Mrs. Doubtfire. Here is a timeline of his life. The information used for this timelime cam be found [here](https://www.thefamouspeople.com/profiles/robin-mclaurim-williams-2733.php)
@@ -29,6 +30,7 @@ Robin Williams was a tremendous actor, comedic genius and beloved friend to many
 ## Lehigh Undergrad Enrollment
 ![Enrollment](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Undergraduate_Enrollment_Over_the_Past_10_Years_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
+<br>
 
 ## Lehigh International Student Enrollment
 Over the past ten years, the amount of international students enrolled in Lehigh increased from 2.8% to 8.8%! The majority of Lehigh's international students are from China, the 2013-2014 school year statistic being about 800 students. Students are from over 50 countries all over the globe, the next highest including India, Iran, and Turkey. 
