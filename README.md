@@ -104,15 +104,16 @@ These four visualizations represent patriarchy and white male dominance in the d
 
 <br>
 
-In the first visualization, from 2007 to 2017, you can see that the percentage of male directors out of the movies made each year and out of a total of 1,223 directors was significantly higher, almost incomparable, to the percent of female directors. The average among the ten-year span for male directors is 95.34% while the average among the ten-year span for female directors is 4.34%. Over ten years there have been no dramatic changes in either gender. So so far, it seems there is no improvement in increasing the amount of female directors.
+In the first visualization, you can see the difference in male and female directors in terms of movie genre, the percentages based out of the 1,100 movie total. From this data you can see that males dominate in all genres but two. comedy and drama, drama having the most significant difference of 36.5% female to 17.9% males. The biggest difference in the instance of male directors outnumbering women is in the action genre.  This data could reinforce stereotypes of each gender, more women creating drama films because women are more emotional, sensitive and dramatic, and more men creating action movies because they are macho.
 
 <br>
 
-In the second visualization, as you hover over each bar, you can see the small percentages of each group, Asian, Black and female directors in the major movie distributors out of the 1,100 movies over the last ten years. The lack of diversity is blantant. Only Lionsgate has a slightly more distinct percentage of black directors. Yet overall, most represent under 8%. And (not represented by the data,) only eight out of 1,223 directors are females from an underrepresented racial/ethnic group.
+In the second visualization, from 2007 to 2017, you can see that the percentage of male directors out of the movies made each year and out of a total of 1,223 directors was significantly higher, almost incomparable, to the percent of female directors. The average among the ten-year span for male directors is 95.34% while the average among the ten-year span for female directors is 4.34%. Over ten years there have been no dramatic changes in either gender. So so far, it seems there is no improvement in increasing the amount of female directors.
 
 <br>
 
-This visualization shows the difference in male and female directors in terms of movie genre, the percentages based out of the 1,100 movie total. From this data you can see that males dominate in all genres but two. comedy and drama, drama having the most significant difference of 36.5% female to 17.9% males. The biggest difference in the instance of male directors outnumbering women is in the action genre.  This data could reinforce stereotypes of each gender, more women creating drama films because women are more emotional, sensitive and dramatic, and more men creating action movies because they are macho.
+In the third visualization, as you hover over each bar, you can see the small percentages of each group, Asian, Black and female directors in the major movie distributors out of the 1,100 movies over the last ten years. The lack of diversity is blantant. Only Lionsgate has a slightly more distinct percentage of black directors. Yet overall, most represent under 8%. And (not represented by the data,) only eight out of 1,223 directors are females from an underrepresented racial/ethnic group.
+
 
 <br>
 
