@@ -47,7 +47,7 @@ There are four main living options to house Lehigh's student population of just 
 <br>
 
 ## Lehigh International Student Enrollment
-Over the past ten years, the amount of international students enrolled in Lehigh increased from 2.8% to 8.8%! The majority of Lehigh's international students are from China, the 2013-2014 school year statistic being about 800 students. Students are from over 50 countries all over the globe, the next highest including India, Iran, and Turkey. 
+Over the past ten years, the amount of international students enrolled in Lehigh increased from 2.8% to 8.8%! In the 2013-2014 school year, there were 394 international graduate students and 125 international undergraduate students. In the 2013-2014 school year, those numbers increased to 717 international graduate students and 334 international undergraduate students! The majority of Lehigh's international students are from China, the 2013-2014 school year statistic being about 800 students. Students are from over 50 countries all over the globe, the next highest including India, Iran, and Turkey. Recently updated admissions statistics state that the rising Class of 2021 is one of the most diverse classes, comprised of students from 41 states and 31 countries across the world!
 ![International](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Undergraduate_International_Student_Enrollment_Over_the_Past_10_Years_International_Students_Enrollment_chartbuilder.png?raw=true)
 
 <br>
