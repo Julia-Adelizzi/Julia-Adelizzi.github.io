@@ -40,6 +40,7 @@ There are four main living options to house Lehigh's student population of just 
 <br>
 
 ## Lehigh Undergrad Enrollment
+These are the statistics of the different colleges incoming students have enrolled in over a ten-year span from 2007-2017. As you can see, Arts and Sciences applicants have declined and recently started to rise again. Engineering was on the rise until 2015 when there was a dramatic drop and has been declining since, and the business school has fluctuated over the ten-year span. 
 ![Enrollment](https://github.com/Julia-Adelizzi/Julia-Adelizzi.github.io/blob/master/Undergraduate_Enrollment_Over_the_Past_10_Years_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
 <br>
